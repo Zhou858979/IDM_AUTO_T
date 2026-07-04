@@ -2,8 +2,8 @@
 ## 下载与安装
 ```
 cd ~
-git clone https://github.com/Zhou858979/IDM_AOUT.git
-cd IDM_AOUT
+git clone https://github.com/Zhou858979/IDM_AUTO_T.git
+cd IDM_AUTO_T
 ./install.sh
 ```
 ## 配置文件
